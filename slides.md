@@ -37,7 +37,14 @@ I have some of this stuff in production, but it's on my own and I'll eventually 
 layout: statement
 ---
 
-# Kubernetes è una piattaforma
+# Think about it!
+![Meme about k8s fatigue](k8s-meme-stress.jpg)
+
+---
+layout: statement
+---
+
+# Kubernetes is a platform
 
 
 ---
@@ -54,6 +61,7 @@ layout: default
 - Ingress
 - Services
 - Deployments/StatfulSets
+- Pods
 
 
 ---
@@ -84,6 +92,19 @@ layout: statement
 Like a deployment, _but_ it maintains ordering and uniqueness of Pods inside.
 
 What the hell does this even mean? It means we can use StatefulSets to deploy stateful services or databases
+
+
+---
+layout: statement
+---
+# Pods
+The smallest computing unit that Kubernetes can manage.
+
+Composed by:
+
+- 1 container (mandatory)
+- sidecar containers (optional)
+- init containers (optional)
 
 
 ---
@@ -124,6 +145,20 @@ users:
     client-key-data: LS0tLS1CRUdJTiBFQyBQUklWQVRFI...
 
 ```
+
+
+---
+layout: statement
+---
+# Who wants a bold opinion?
+This is way better than Ansible when it comes to standards and it even makes more sense when you have to scale
+
+
+---
+layout: intro-image-right
+image: kubernetes-burgers.jpg
+---
+# Another meme because reasons
 
 ---
 layout: center
