@@ -16,7 +16,7 @@ info: |
 
 # Kubernetes explained to my aunt
 
-tranquilli: se avete provato tutti i metodi possibili e vi rimane solo questo, non avete niente da perdere
+stay cool: if you tried everything and only this remains you've got nothing to lose
 
 <div class="absolute bottom-10">
   <span class="font-700">
@@ -169,4 +169,4 @@ class: text-center
 
 Senior Software Engineer @ Prima.it
 
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+@dottorblaster
