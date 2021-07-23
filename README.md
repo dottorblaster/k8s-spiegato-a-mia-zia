@@ -1,4 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Kubernetes explained to my aunt
+
+In the `slides.md` files you can find the whole presentation :-)
 
 To start the slide show:
 
@@ -8,4 +10,5 @@ To start the slide show:
 
 Edit the [slides.md](./slides.md) to see the changes.
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Kubernetes manifest file
+Inside `manifests/echo.yml` you can find the manifest used for the echo-service deployment demo. 
